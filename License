@@ -1,0 +1,500 @@
+   47  man locate
+   48  locate McAfee
+   49  open /Library/Documentation/Help/
+   50  sudo /usr/libexec/locate.updatedb
+   51  locate McAfee
+   52  open /private/var/log/
+   53  exit
+   54  jetty
+   55  jetty start
+   56  cd Downloads/
+   57  ls
+   58  rm OL_COST-r1.pptx 
+   59  ls
+   60  ls *.pdf
+   61  ls
+   62  scp tta-5.30-911.x86_64.rpm kevin@vd.cn.oracle.com:~
+   63  ssh kevin@vd.cn.oracle.com
+   64  exit
+   65  cd Documents/workspace/
+   66  ls
+   67  cd electron/
+   68  ls
+   69  mkdir angular-electron
+   70  cd angular-electron/
+   71  ls
+   72  npm init
+   73  clear
+   74  atom package.json 
+   75  brew update
+   76  cd /usr/local/Cellar/
+   77  ls
+   78  cd node/
+   79  ls
+   80  cd 7.1.0/
+   81  l
+   82  ls
+   83  exit
+   84  pwd
+   85  ls
+   86  electron
+   87  npm install electron-prebuilt --save-dev
+   88  npm install electron --save-dev
+   89  ls
+   90  rm -rf node_modules
+   91  npm install electron --save-dev
+   92  electron .
+   93  npm start
+   94  npm start
+   95  npm start
+   96  npm start
+   97  npm install
+   98  npm 
+   99  npm -l
+  100  npm install -g electron
+  101  npm start
+  102  npm start
+  103  electron .
+  104  electron .
+  105  const {app, BrowserWindow} = require('electron')
+  106  const path = require('path')
+  107  const url = require('url')
+  108  // Keep a global reference of the window object, if you don't, the window will
+  109  // be closed automatically when the JavaScript object is garbage collected.
+  110  let win
+  111  function createWindow () {
+  112    // Create the browser window.
+  113    win = new BrowserWindow({width: 800, height: 600})
+  114    // and load the index.html of the app.
+  115    win.loadURL(url.format({
+  116      pathname: path.join(__dirname, 'index.html'),
+  117      protocol: 'file:',
+  118      slashes: true
+  119    }))
+  120    // Open the DevTools.
+  121    win.webContents.openDevTools()
+  122    // Emitted when the window is closed.
+  123    win.on('closed', () => {
+  124      // Dereference the window object, usually you would store windows
+  125      // in an array if your app supports multi windows, this is the time
+  126      // when you should delete the corresponding element.
+  127      win = null
+  128    })
+  129  }
+  130  // This method will be called when Electron has finished
+  131  // initialization and is ready to create browser windows.
+  132  // Some APIs // Some APIs // Some APIs // Some APIs //
+  133  app.on(app.on(app.on(app.on(app.o Quapp.on(app.on(app.on(ap closapp.on(app.on(app.on(app.on(app.o Quapp.on(app.on(app.on(ap closapp.on(applications and their menu bar
+  134    // to stay active until the user quits explicitly with Cmd + Q
+  135    if (process.platform   if (process.platform   iit()
+  136    }
+  137  })
+  138  app.on('activate', () => {
+  139    // On macOS it's c  // On macOS it's c  // On macOS it's when the
+  140    // dock icon is cl  // dock icon is cl  // dock icon is cl  // do (w  // dock icon is  createWindow()
+  141    }
+  142  })
+  143  // In this file you can includ// In this file you can inpecific // In this file you can includ// o put t// In this file yiles and require them her
+  144  electron .
+  145  clear
+  146  npm start
+  147  cd ..
+  148  ls
+  149  cd electron-quick-start/
+  150  ls
+  151  npm start
+  152  npm update
+  153  npm start
+  154  npm start
+  155  npm 
+  156  npm start
+  157  brew help
+  158  cd /usr/local/Cellar/
+  159  open .
+  160  brew cleanup mongodb
+  161  brew cleanup macvim
+  162  brew cleanup readline
+  163  brew cleanup git
+  164  brew cleanup openssl
+  165  brew cleanup node
+  166  curl -L https://npmjs.com/install.sh | sh
+  167  npm remove electron
+  168  npm remove electron -g
+  169  pwd
+  170  npm install electron-prebuilt --save-dev
+  171  npm -g install electron-prebuilt
+  172  npm start
+  173  electron .
+  174  electron .
+  175  electron .
+  176  electron .
+  177  electron .
+  178  cd
+  179  cd Documents/workspace/
+  180  ls
+  181  cd electron/
+  182  ls
+  183  cd zh-cn-Electron-API-Demos/
+  184  npm start
+  185  npm start
+  186  brew uninstall node
+  187  node -version
+  188  node 
+  189  exi
+  190  exit
+  191  pwd
+  192  npm start
+  193  npm list
+  194  npm install
+  195  pwd
+  196  rm -rf node_modules/
+  197  npm start
+  198  npm help
+  199  npm list
+  200  npm node-dev
+  201  npm install -g node-dev
+  202  npm update -g
+  203  sudo npm update -g
+  204  ll
+  205  ls
+  206  cd /usr/local/lib/
+  207  ll
+  208  cd node_modules/
+  209  ll
+  210  id
+  211  cd npm/
+  212  ll
+  213  cd ..
+  214  ls
+  215  cd ..
+  216  ls
+  217  ll
+  218  cd ..
+  219  ll
+  220  sudo chown -r kevin:admin lib
+  221  sudo chown -R kevin:admin lib
+  222  npm update -g
+  223  ls
+  224  cd 
+  225  cd Documents/workspace/nodejs/
+  226  ls
+  227  cd blog/
+  228  ls
+  229  npm start
+  230  ls
+  231  noe app
+  232  node app
+  233  exit
+  234  cd Documents/workspace/
+  235  ls
+  236  cd electron/
+  237  ls
+  238  npm install --g electron-prebuilt
+  239  vim ~/.profile 
+  240  exit
+  241  cd Documents/workspace/electron/
+  242  npm install --g electron-prebuilt
+  243  npm install --g electron
+  244  ls
+  245  cd electron-api-demos/
+  246  ls
+  247  npm start
+  248  npm uninstall --g electron-prebuilt
+  249  clear
+  250  ls
+  251  cd ..
+  252  ls
+  253  cd hello/
+  254  ls
+  255  vim package.json 
+  256  rm -rf node_modules
+  257  ls
+  258  npm install electron --save-dev
+  259  npm start
+  260  ls
+  261  vim index.html 
+  262  ls
+  263  atom index.js 
+  264  exit
+  265  npm start
+  266  npm start
+  267  cd Documents/workspace/electron/hello/
+  268  npm start
+  269  npm start
+  270  cd ..
+  271  ls
+  272  mkdir sound_machine
+  273  cd sound_machine/
+  274  npm init
+  275  vim package.json 
+  276  npm install --save-dev electron
+  277  vim index.html
+  278  atom .
+  279  atom .
+  280  npm start
+  281  npm start
+  282  npm start
+  283  npm start
+  284  npm start
+  285  npm start
+  286  cd ..
+  287  git clone https://github.com/bojzi/sound-machine-electron-guide.git
+  288  ls
+  289  cd sound-machine-electron-guide/
+  290  ls
+  291  npm install
+  292  npm start
+  293  vim package.json 
+  294  npm install
+  295  npm start
+  296  cd ..
+  297  cd sound_machine/
+  298  npm start
+  299  npm start
+  300  npm start
+  301  npm start
+  302  npm start
+  303  npm start
+  304  vim ~/.profile 
+  305  source ~/.profile 
+  306  atom
+  307  vf ..
+  308  ld
+  309  cd..
+  310  ls
+  311  git clone --bare https://githut.com/planetoftheweb/electron.git .git
+  312  git clone --bare https://github.com/planetoftheweb/electron.git .git
+  313  ls
+  314  git config --bool core.bare false
+  315  git reset --hard
+  316  clear
+  317  git branck
+  318  git branch
+  319  ls
+  320  mkdir lynda
+  321  cd lynda/
+  322  git clone --bare https://github.com/planetoftheweb/electron.git .git
+  323  git config --bool core.bare false
+  324  git reset --hard
+  325  git branch
+  326  ls
+  327  npm install
+  328  git branch
+  329  git checkout 01_02b
+  330  git checkout 01_02e
+  331  npm install --save-dev electron
+  332  electron .
+  333  git checkout 01_03b
+  334  npm 
+  335  npm install --save-dev electron
+  336  electron ,
+  337  electron .
+  338  electron .
+  339  electron .
+  340  electron .
+  341  electron .
+  342  electron .
+  343  electron .
+  344  electron .
+  345  electron .
+  346  electron .
+  347  electron .
+  348  electron .
+  349  electron .
+  350  electron .
+  351  electron .
+  352  atom
+  353  ls
+  354  rm -rf *.*
+  355  ls
+  356  git checkout 02_01b
+  357  npm install
+  358  electron .
+  359  ls
+  360  open .
+  361  npm install --g gulp
+  362  gulp 
+  363  ls
+  364  rm -rf node_modules/
+  365  ls
+  366  rm -rf node_modules
+  367  ls
+  368  npm install
+  369  gulp 
+  370  ls
+  371  rm -rf *
+  372  ls
+  373  git checkout o2_03e
+  374  git checkout 02_03e
+  375  npm install
+  376  gulp 
+  377  cd ..
+  378  cd ..
+  379  cd Reactjs/
+  380  ls
+  381  ls
+  382  pwd
+  383  atom index.html
+  384  ls
+  385  ls
+  386  open index.html 
+  387  ls
+  388  ls
+  389  npm install -g create-react-app
+  390  create-react-app hello-world
+  391  ls
+  392  cd hello-world/
+  393  ls
+  394  npm start
+  395  cd ../../
+  396  cd electron/lynda/
+  397  ls
+  398  gulp 
+  399  gulp 
+  400  gulp 
+  401  gulp 
+  402  gulp 
+  403  gulp 
+  404  gulp 
+  405  gulp 
+  406  gulp 
+  407  gulp 
+  408  gulp 
+  409  gulp 
+  410  gulp 
+  411  atom .
+  412  atom .
+  413  gulp 
+  414  gulp 
+  415  gulp 
+  416  gulp 
+  417  gulp 
+  418  calc 46.4/2.5
+  419  brew update
+  420  brew upgrade
+  421  macupdate 
+  422  exit
+  423  cd Documents/
+  424  ls
+  425  cd workspace/
+  426  ls
+  427  mkdir javascript-es6
+  428  cd java
+  429  cd ..
+  430  cd javascript-es6/
+  431  ls
+  432  mkdir es6
+  433  cd es6/
+  434  ls
+  435  npm init
+  436  atom .
+  437  npm install --save-dev babel-cli babel-preset-es2015
+  438  npm run build
+  439  npm run build
+  440  ls
+  441  cd src/
+  442  ls
+  443  open index.html 
+  444  node main.js 
+  445  npm build
+  446  npm build
+  447  node -v
+  448  cd ,,
+  449  ls
+  450  ls
+  451  cd ..
+  452  ls
+  453  cd ..
+  454  ls
+  455  cd ..
+  456  ls
+  457  cd electron/
+  458  ls
+  459  cd N1-master
+  460  s
+  461  ls
+  462  open README.md 
+  463  cd ..
+  464  ls
+  465  cd ..
+  466  ls
+  467  mkdir angular2
+  468  cd angular
+  469  cd angular2/
+  470  ls
+  471  mkdir angular2desktop
+  472  cd angular2desktop/
+  473  ls
+  474  git clone https://github.com/rajayogan/angular2desktop-rc.git
+  475  cd angular2desktop-rc
+  476  npm install
+  477  ls
+  478  npm install
+  479  ls
+  480  cd ..
+  481  ks
+  482  ls
+  483  rm -rf angular2desktop-rc/
+  484  git clone https://github.com/angular/quickstart.git quickstart
+  485  cd quickstart
+  486  npm install
+  487  npm start
+  488  ls
+  489  npm install
+  490  npm start
+  491  atom .
+  492  clear
+  493  exit
+  494  cd Documents/
+  495  cd workspace/
+  496  ls
+  497  mkdir git-learning
+  498  cd git-learning/
+  499  ls
+  500  mkdir test01
+  501  cd test01/
+  502  git init
+  503  ls -al
+  504  cd .git/
+  505  ls
+  506  cd ..
+  507  ls
+  508  vim readme.txt
+  509  git status
+  510  git diff readme.txt 
+  511  git add readme.txt 
+  512  git status
+  513  git commit -m "Add new readme file"
+  514  vim readme.txt 
+  515  git statu
+  516  git status
+  517  git commit -m "remove distributed"
+  518  git add readme.txt 
+  519  git status
+  520  git commit -m "remove distributed"
+  521  git diff readme.txt 
+  522  git status
+  523  ls
+  524  ll
+  525  git diff
+  526  git diff readme.txt 
+  527  vim readme.txt 
+  528  git add readme.txt 
+  529  git commit -m "app GPL"
+  530  git log
+  531  git log --pretty=oneline
+  532  git reset --hard HEAD^
+  533  cat readme.txt 
+  534  git log
+  535  git reset --hard 8be5bede2c4241fec505b4ce202c291886d737d2
+  536  cat readme.txt 
+  537  git reflog
+  538  brew update
+  539  brew upgrade
+  540  clear
+  541  history 
+  542  history
+  543  clear
+  544  ls
+  545  vim readme.txt 
+  546  history >> License
